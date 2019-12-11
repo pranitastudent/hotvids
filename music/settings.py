@@ -26,7 +26,7 @@ SECRET_KEY = '785d_9%i4gknk5=65^7!ozt=6*jf8x6&hq(xdf1r8svk8(%mtz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hotvidz.herokuapp.com']
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'home'
